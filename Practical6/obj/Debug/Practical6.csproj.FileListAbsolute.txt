@@ -1,0 +1,11 @@
+C:\Users\Den\source\repos\Practical6\Practical6\bin\Debug\Practical6.exe.config
+C:\Users\Den\source\repos\Practical6\Practical6\bin\Debug\Practical6.exe
+C:\Users\Den\source\repos\Practical6\Practical6\bin\Debug\Practical6.pdb
+C:\Users\Den\source\repos\Practical6\Practical6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Den\source\repos\Practical6\Practical6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Den\source\repos\Practical6\Practical6\obj\Debug\Practical6.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\Practical6\Practical6\obj\Debug\Practical6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Den\source\repos\Practical6\Practical6\obj\Debug\Practical6.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\Practical6\Practical6\obj\Debug\Practical6.csproj.CopyComplete
+C:\Users\Den\source\repos\Practical6\Practical6\obj\Debug\Practical6.exe
+C:\Users\Den\source\repos\Practical6\Practical6\obj\Debug\Practical6.pdb
